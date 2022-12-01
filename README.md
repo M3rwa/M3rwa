@@ -20,7 +20,4 @@ You can click the Preview link to take a look at your changes.
 </p>
 <p align="left" dir="auto">
 </p>
-<a href="https://github.com/thepiyushmalhotra">
-  <img height="180em" src="https://camo.githubusercontent.com/2d7aa913f7fd630c2fc5c4aa82807f1879686e62e992996b9586e3bf0ba6d50c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7468657069797573686d616c686f747261267468656d653d6e6f637469735f6d696e696d75732673686f775f69636f6e733d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=thepiyushmalhotra&amp;theme=noctis_minimus&amp;show_icons=true" style="max-width: 100%;">
-  <img height="180em" src="https://camo.githubusercontent.com/6d5065229b5c946962c7de533393d40103de534064368d436b5e3c2e511b3d8f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7468657069797573686d616c686f747261267468656d653d6e6f637469735f6d696e696d7573266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepiyushmalhotra&amp;theme=noctis_minimus&amp;layout=compact" style="max-width: 100%;">
-</a>
+<img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" style="max-width: 100%;">
