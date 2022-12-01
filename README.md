@@ -32,6 +32,9 @@ Follow Me!<g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://
 <a href="https://www.linkedin.com/in/marwa-elsayed-khalil-a33914205/" rel="nofollow">
 <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" style="max-width: 100%;">
 </a> 
+<a href="https://www.linkedin.com/in/marwa-elsayed-khalil-a33914205/" rel="nofollow">
+<img height="50" src="https://icons8.com/icons/set/facebook.png" style="max-width: 100%;">
+</a> 
 <p align="center" dir="auto">
 <img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" style="max-width: 100%;">
 </p>
