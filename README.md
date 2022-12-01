@@ -10,10 +10,10 @@
 <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" style="max-width: 100%;">
 </a>
 </p>
-<h3 - 👋 Hi, I’m Marwa Elsayed Khalil <br>
-- 👀 I’m interested in Artificial Intelligence,Graphics,Photography and Languages <br>
-- 🌱 I’m currently learning Machine learning,Deep Learning,Nature Language Processing,Computer Vision <br>
-- 📫 How to reach me arwask7@gmail.com <br>
+<h3 ● 👋 Hi, I’m Marwa Elsayed Khalil <br>
+● 👀 I’m interested in Artificial Intelligence,Graphics,Photography and Languages <br>
+● 🌱 I’m currently learning Machine learning,Deep Learning,Nature Language Processing,Computer Vision <br>
+● 📫 How to reach me arwask7@gmail.com <br>
 </h3>
 <!---
 M3rwa/M3rwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
