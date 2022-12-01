@@ -6,7 +6,7 @@
 ● 👀 I’m interested in Artificial Intelligence,Graphics,Photography and Languages <br><br>
 ● 🌱 I’m currently learning Machine learning,Deep Learning,Nature Language Processing,Computer Vision <br><br>
 ● 📫 How to reach me : arwask7@gmail.com <br><br>
-</h3>
+></h3>
 <!---
 M3rwa/M3rwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
