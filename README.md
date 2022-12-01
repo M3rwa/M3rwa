@@ -10,7 +10,7 @@
 <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" style="max-width: 100%;">
 </a>
 </p>
-- 👋 Hi, I’m Marwa Elsayed Khalil
+- <👋 Hi, I’m Marwa Elsayed Khalil/b>
 - 👀 I’m interested in Artificial Intelligence,Graphics,Photography and Languages 
 - 🌱 I’m currently learning Machine learning,Deep Learning,Nature Language Processing,Computer Vision 
 - 📫 How to reach me arwask7@gmail.com
