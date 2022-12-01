@@ -1,15 +1,8 @@
 <img src="https://camo.githubusercontent.com/2d97fc6917462d31a885631ec887824db6974df46eccea2ae131ff3ece798a0a/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=Hello!&amp;height=100&amp;section=header" style="max-width: 100%;">
-<h1 align="left" dir="auto"><a id="user-content---lets-connect-and-have-a-chat" class="anchor" aria-hidden="true" href="#--lets-connect-and-have-a-chat"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
-Follow Me!<g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji>
-</h1>
-<p align="center" dir="auto">
-<a href="https://www.linkedin.com/in/marwa-elsayed-khalil-a33914205/" rel="nofollow">
-<img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" style="max-width: 100%;">
-</a> 
-</p>
-<h3 ● 👋 Hi, I’m Marwa Elsayed Khalil <br><br>
+<h3 
+● 👋 Hi, I’m Marwa Elsayed Khalil <br><br>
 ● 👀 I’m interested in Artificial Intelligence,Graphics,Photography and Languages <br><br>
-● 🌱 I’m currently learning Machine learning,Deep Learning,Nature Language Processing,Computer Vision .... <br><br>
+● 🌱 I’m currently learning Machine learning,Deep Learning,Nature Language Processing,Computer Vision <br><br>
 ● 📫 How to reach me : arwask7@gmail.com <br><br>
 </h3>
 <!---
@@ -30,10 +23,18 @@ You can click the Preview link to take a look at your changes.
  <img src="https://camo.githubusercontent.com/b861b92581ad5a7b81147073d729eda727f71985d72f3dd198e0afd792a6f9de/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f74656e736f72666c6f772f74656e736f72666c6f772d69636f6e2e737667" alt="tensorflow" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="max-width: 100%;">
 </p>
 <h1 align="left" dir="auto"><a id="user-content---lets-connect-and-have-a-chat" class="anchor" aria-hidden="true" href="#--lets-connect-and-have-a-chat"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
+<h1 align="left" dir="auto"><a id="user-content---lets-connect-and-have-a-chat" class="anchor" aria-hidden="true" href="#--lets-connect-and-have-a-chat"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
+Follow Me!<g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji>
+</h1>
+<p align="center" dir="auto">
+<a href="https://www.linkedin.com/in/marwa-elsayed-khalil-a33914205/" rel="nofollow">
+<img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" style="max-width: 100%;">
+</a> 
+</p>
 Check my website!<g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji>
 </h1>
 <p align="center" dir="auto">
 <a href="https://m3rwa.github.io/Personal-Website/index.html" rel="nofollow">
- <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png" style="max-width: 100%;">
+<img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png" style="max-width: 100%;">
 </a><br>
 <img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" style="max-width: 100%;">
