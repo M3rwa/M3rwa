@@ -35,5 +35,5 @@ Check my website!<g-emoji class="g-emoji" alias="speech_balloon" fallback-src="h
 <p align="center" dir="auto">
 <a href="https://m3rwa.github.io/Personal-Website/index.html" rel="nofollow">
  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png" style="max-width: 100%;">
-</a>
+</a><br>
 <img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" style="max-width: 100%;">
