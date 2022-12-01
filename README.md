@@ -1,12 +1,12 @@
 <p align="center" dir="auto">
 <img src="https://camo.githubusercontent.com/2d97fc6917462d31a885631ec887824db6974df46eccea2ae131ff3ece798a0a/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=Hello!&amp;height=100&amp;section=header" style="max-width: 100%;">
 </p>
-<h3 
+<h3>
 ● 👋 Hi, I’m Marwa Elsayed Khalil <br><br>
 ● 👀 I’m interested in Artificial Intelligence,Graphics,Photography and Languages <br><br>
 ● 🌱 I’m currently learning Machine learning,Deep Learning,Nature Language Processing,Computer Vision <br><br>
 ● 📫 How to reach me : arwask7@gmail.com <br><br>
-></h3>
+</h3>
 <!---
 M3rwa/M3rwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
