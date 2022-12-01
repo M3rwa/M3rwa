@@ -9,7 +9,6 @@
 <a href="https://www.linkedin.com/in/marwa-elsayed-khalil-a33914205/" rel="nofollow">
 <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" style="max-width: 100%;">
 </a>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alaatahaelmaria" height="30" width="40" style="max-width: 100%;">
 </p>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
