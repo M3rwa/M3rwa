@@ -30,9 +30,6 @@ Follow Me!<g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://
 </h1>
 <p align="center" dir="auto">
 <a href="https://www.linkedin.com/in/marwa-elsayed-khalil-a33914205/" rel="nofollow">
-<img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" style="max-width: 100%;">
-</a> 
-<a href="https://www.linkedin.com/in/marwa-elsayed-khalil-a33914205/" rel="nofollow">
 <img height="50" src="https://icons8.com/icons/set/facebook.png" style="max-width: 100%;">
 </a> 
 <p align="center" dir="auto">
