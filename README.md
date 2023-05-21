@@ -4,7 +4,7 @@
 <h3>
 ● 👋 Hi, I’m Marwa Elsayed Khalil <br><br>
 ● 👀 I’m interested in Artificial Intelligence,Graphics,Photography and Languages <br><br>
-● 🌱 I’m currently learning Machine learning,Deep Learning,Nature Language Processing,Computer Vision <br><br>
+● 👩🏻‍💻 I’m currently learning Machine learning,Deep Learning,Nature Language Processing,Computer Vision<br><br>
 ● 📫 How to reach me : arwask7@gmail.com <br><br>
 </h3>
 <!---
