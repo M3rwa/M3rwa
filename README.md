@@ -11,6 +11,11 @@
 M3rwa/M3rwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<p align="center" dir="auto">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://camo.githubusercontent.com/58d8a1452b99c8f861ee7c9aaa7f4cdb4f24ffd0ca0ef6fbf6947b80144512c5/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d4e65766572253230476976652d55703b4d616368696e652532304c6561726e696e673b26666f6e743d46697261253230436f64652663656e7465723d747275652677696474683d343430266865696768743d343526636f6c6f723d413032304630267643656e7465723d747275652673697a653d3232" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Never%20Give-Up;Machine%20Learning;&amp;font=Fira%20Code&amp;center=true&amp;width=440&amp;height=45&amp;color=A020F0&amp;vCenter=true&amp;size=22" style="max-width: 100%;"></a>
+</p>
+
 <h1> 🚀 &nbsp;Some Tools I Have Used and Learned</h1>
 <p align="center">
 <img src="https://camo.githubusercontent.com/b3a1cdd20d0f308634ddd4598cdaa729c2d77047f51e66fa7206b9b4bac94c23/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667" alt="arduino" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="max-width: 100%;">
