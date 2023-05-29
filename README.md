@@ -41,10 +41,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 <img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" align="center" style="max-width: 100%;">
 <p align="center" dir="auto">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://camo.githubusercontent.com/58d8a1452b99c8f861ee7c9aaa7f4cdb4f24ffd0ca0ef6fbf6947b80144512c5/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d4265253230506f7369746976652532303b42652532304272617665266d70743b26636f6c6f723d413032304630266865696768743d343430266865696768743d34352663656e7465723d74727565267643656e7465723d747275652673697a653d3232"
-         data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Be%20Positive;Be%20Brave;&amp;font=Fira%20Code&amp;center=true&amp;width=440&amp;height=45&amp;color=A020F0&amp;vCenter=true&amp;size=22"
-         style="max-width: 100%;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=84178B&width=435&lines=Be+positive+;Be+Brave" alt="Typing SVG">
   </a>
 </p>
 <p align="center" dir="auto">
